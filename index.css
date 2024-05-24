@@ -1,0 +1,14 @@
+.main{
+    width: 320px;
+    height: 190px;
+    border: 1px solid #d5d2d2;
+    font-family: sans-serif;
+    padding: 8px;
+    border-radius: 8px;
+}
+span{
+    color:rgb(115 102 221);
+}
+h2{
+    font-size: 30px;
+}
